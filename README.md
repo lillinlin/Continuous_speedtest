@@ -13,4 +13,4 @@
 
 ---
 
-![do](./do.png)  
+![do](images/do.png)  
