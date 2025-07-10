@@ -1,4 +1,4 @@
-# 流量消耗器 · Traffic Consumer
+# 流量消耗器/连续速度测试 · continuous_speedtest
 
 一个可部署在 Cloudflare Pages 上的轻量级静态网页工具，用于**监测网络连通性**、**展示 IP 信息**，并通过自定义链接触发**带宽流量消耗**，适合用于网络测试、边缘性能验证等场景。
 
@@ -13,6 +13,4 @@
 
 ---
 
-![img](https://r2.wuxie.de/blog/20250509_f6c83351.jpg)
-
-![img](https://r2.wuxie.de/blog/20250509_240dad4a.jpg)
+./do.png
